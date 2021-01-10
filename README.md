@@ -1,7 +1,7 @@
 # URL Shortener
 
 > API to create short urls using Node, Express and MongoDB
-> You can create your custom link with limited access by specifying the number of times a asite can be visited
+> You can create your custom link with limited access by specifying the number of times a site can be visited
 
 ## Quick Start
 > You can start this application by first installing the node dependencies and running the following commands
