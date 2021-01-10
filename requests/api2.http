@@ -1,0 +1,8 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl": "http://blog.hubspot.com/9-reasons-you-cant-resist-list?utm_campaign=blogpost&utm_medium=social&utm_source=facebook",
+  "author":"Baldeep kumar",
+  "noOfVisitsAllowed":2
+}

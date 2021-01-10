@@ -1,0 +1,8 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl": "https://www.amazon.in/b/ref=gwdb_bmc_0_OP8T?_encoding=UTF8&node=22301453031&pf_rd_s=merchandised-search-6&pf_rd_t=Gateway&pf_rd_i=mobile&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_r=THRS226FNXDT1K0RSC50&pf_rd_p=28fb61f3-12fe-4c68-9418-4ee801aa48fc",
+  "author":"Vishwas kumar",
+  "noOfVisitsAllowed":2
+}
