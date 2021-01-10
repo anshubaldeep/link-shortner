@@ -14,6 +14,6 @@ npm install
 npm start
 ```
 
-> You can test the API service running now on port 500 on REST client and for reference can view the sample requests in requests folder
+> You can test the API service running now on port 5000 on REST client and for reference can view the sample requests in requests folder
 
-> For assumptions and todo, please check assumptions.md and todo,md
+> For assumptions and todo, please check assumptions.md and todo.md
